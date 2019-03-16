@@ -1,0 +1,14 @@
+{
+  "name": "ng-resize",
+  "homepage": "https://github.com/danmasta/ngResize",
+  "version": "2.0.0",
+  "_release": "2.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.0.0",
+    "commit": "472cb2e9ef45b92360d57df3a63b7bda0257c0c3"
+  },
+  "_source": "https://github.com/danmasta/ngResize.git",
+  "_target": "2.0.0",
+  "_originalSource": "ng-resize"
+}
